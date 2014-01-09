@@ -1,0 +1,22 @@
+{
+  "name": "canvasTalk",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "jade": "*",
+    "socket.io" : "*"
+  },
+  "description": "talk",
+  "main": "node app.js",
+  "devDependencies": {},
+  "keywords": [
+    "canvac",
+    "socket"
+  ],
+  "author": "FHY",
+  "license": "BSD-2-Clause"
+}
