@@ -1,2 +1,2 @@
-#canvasTalk
-可以通过canvas聊天的小程序
+#canvas鐢诲浘
+canvas 缁樺浘閫氫俊
